@@ -3,7 +3,7 @@
 **Author:** Tony Mason / wamason.com LLC
 **Date:** May 13, 2026
 **Status:** Strawman / Pre-pre-registration draft — not for distribution
-**Origin:** Synthesis emerging from a May 13, 2026 conversation exploring ontology design for ML governance, building on the schema findings from the Olorin (Titan Governance) work, the epistemic honesty impossibility paper, the Hamut'ay autobiographer/biographer distinction, and the Willay attestation architecture. Documented separately because the ontology line of work warrants independent development from the governance-codification work currently flowing to the public Olorin repository.
+**Origin:** Synthesis emerging from a May 13, 2026 conversation exploring ontology design for ML governance, building on the schema findings from the Olorin work, the epistemic honesty impossibility paper, the Hamut'ay autobiographer/biographer distinction, and the Willay attestation architecture. Documented separately because the ontology line of work warrants independent development from the governance-codification work currently flowing to the public Olorin repository.
 
 ---
 
@@ -96,7 +96,7 @@ This strawman is one of several lines in a broader research program on declared-
 - **Hamut'ay** (autobiographer/biographer cliff): the same structural property applied to memory systems. An ontology that declares its own losses behaves differently than one that does not, and the difference is externally visible. The strawman applies that property to governance ontology.
 - **Willay** (cryptographic attestation): the substrate that makes binding moments first-class with non-repudiation. Eventually carries the ser-layer attestation chain. Deferred from this iteration to keep the smallest claim isolable, but the architecture is designed to accept Willay as the ser-layer substrate when it is ready.
 - **Yanantin** (graph memory substrate): the natural storage for layered ontology with binding-moment provenance and cross-frame translation edges. The relationships between bindings, terms, and operative evidence are graph-shaped by construction.
-- **Olorin / Titan governance work** (schema findings): the empirical anchor. Case #11 (`mandatory_features` at wrong granularity) is the smallest concrete failure of flat-list ontology that this work explains. The strawman uses the governance work's data as its substrate without requiring the governance work itself to flow into this line.
+- **Olorin governance work** (schema findings): the empirical anchor. Case #11 (`mandatory_features` at wrong granularity) is the smallest concrete failure of flat-list ontology that this work explains. The strawman uses the governance work's data as its substrate without requiring the governance work itself to flow into this line.
 - **Rashomon-routed-decision methodology**: the source of empirically-derived canonical inferences in the second iteration. Inferences invariant across the Rashomon set of equally-accurate models on the substrate are candidates for band-level institutional commitment, and convergence with hand-curated inferences is a cross-validation of both.
 - **Epistemic honesty impossibility paper**: the philosophical grounding for belief-attestation (rather than truth-attestation) as the tractable form. The ontology stores what the institution committed to believing at a time, not what the institution claims is true.
 
@@ -106,7 +106,7 @@ This work uses the pre-registered prediction discipline carried over from prior 
 
 The strawman is intentionally lightweight in form. The artifact is this note plus a runnable license-preservation suite; the suite is what falsifies. If the architecture survives the `mandatory_features` test, the next iteration extends to a second term (likely "consumer" under a specified policy construction) and begins integrating Willay attestation. If the architecture fails, the failure mode is itself research output and shapes the next architectural iteration.
 
-The audience for this strawman is the research program itself — self-falsification, not external review. The framing and scope here would shift substantially for a regulator-facing version or a Titan-facing version, and those are explicitly future artifacts, not this one.
+The audience for this strawman is the research program itself — self-falsification, not external review. The framing and scope here would shift substantially for a regulator-facing version or a Olorin-facing version, and those are explicitly future artifacts, not this one.
 
 ## 9. Next Steps
 
