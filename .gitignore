@@ -2,3 +2,4 @@
 .claude-flow/
 ruvector.db
 .serena
+*.egg-info/
